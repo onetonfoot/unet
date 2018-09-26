@@ -1,3 +1,4 @@
 data/augmented
 unet-paper.pdf
 .ipynb_checkpoints
+__pycache__
